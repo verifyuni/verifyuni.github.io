@@ -123,35 +123,6 @@ export default function TeamSection() {
             
             </Card>
           </GridItem>
-          <GridItem xs={12} sm={12} md={6}>
-            <Card plain>
-              <GridItem xs={12} sm={12} md={6} className={classes.itemGrid}>
-                <img src={team4} alt="..." className={imageClasses} />
-              </GridItem>
-              <h4 className={classes.cardTitle}>
-              Veena Singh
-
-                <br />
-                <small className={classes.smallTitle}>Advisor/Mentor </small>
-              </h4>
-              <CardBody>
-                <p className={classes.description} style={{fontWeight:"800"}}>
-                I have over 25 years of experience after a Postgraduate Degree in Management from Delhi University, India. 
-                I was awarded the Chevening Scholarship to attend Bankers’ Program at London School of Economics and 
-                Political Science, UK. I was also awarded a Scholarship by Swedish Institute to attend the Management 
-                Program on Leadership and Sustainability in Stockholm and Asia.
-                I have worked across Financial Institutions, Non-Bank Finance Companies and Startups in the areas of 
-                Corporate Finance, Strategy, Operations and Business Restructurings, travelling extensively across Asia and 
-                Europe. I have also worked as a Finance Faculty in a Business School in India where I was Head of Student 
-                Affairs and also responsible for organizing placements, internships and short term projects for students.  
-                My experience in the Corporate and Education sector equips me to guide, mentor and steer students and 
-                working professionals on their admission and career paths.
-
-                </p>
-              </CardBody>
-            
-            </Card>
-          </GridItem>
         </GridContainer>
       </div>
     </div>
