@@ -53,7 +53,7 @@ export default function ContactUs() {
                   
                   id="phone"
                   variant="outlined"
-                  defaultValue="+91 98180 98463"
+                  defaultValue="+91 98454 17667"
                   InputProps={{
                     readOnly: true,
                     startAdornment: (
@@ -87,7 +87,7 @@ export default function ContactUs() {
                   id="location1"
                   variant="outlined"
                   multiline
-                  defaultValue="South Extension - Part I, New Delhi, India"
+                  defaultValue="ST Bed Koramangala, Bangalore, Karnataka, India"
                   InputProps={{
                     readOnly: true,
                     startAdornment: (
